@@ -15,7 +15,7 @@ Me chamo Alisson Colombo!!
 
 <style>
           div {
-	color: #fff0;
+	color: blue;
 }
           
 </style>
