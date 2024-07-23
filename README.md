@@ -7,8 +7,6 @@ Me chamo Alisson Colombo!!
 
 :computer:Aprendendo a programar!! E cada vez mais apixonado pela area.
 
-<div class="tenor-gif-embed" data-postid="4533805" data-share-method="host" data-aspect-ratio="1.32773" data-width="100%"><a href="https://tenor.com/view/thumbs-up-computer-kid-okay-gif-4533805">Thumbs Up Computer GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div>
-
 ##          Ferramentas e Tecnologias:
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" heigth="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" heigth="40" /> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/> 
 
@@ -24,7 +22,7 @@ Me chamo Alisson Colombo!!
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonColombo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonColombo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-              
+![Snake animation](https://github.com/AlissonColombo/AlissonColombo/blob/output/github-contribution-grid-snake.svg)              
           
           
           
