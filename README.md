@@ -3,8 +3,10 @@ Me chamo Alisson Colombo!!
 
 📖Estou cursando o terceiro semestre de Engenharia de Softwarena UCS - Campos Caxias.
 
-:computer:Aprendendo a programar, e as principais linguagens que já usei ou me aprofundei foram: C, C# e Java.
-
 🏠Sou natural de Caxias do Sul, RS.
 
-😄Espero que goste do que vai encontrar aqui.
+:computer:Aprendendo a programar, e as principais linguagens que já usei ou me aprofundei foram:
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" heigth="40"/>
+          
