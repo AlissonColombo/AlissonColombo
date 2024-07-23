@@ -14,7 +14,7 @@ Me chamo Alisson Colombo!!
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" heigth="40"/> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" heigth="40"/> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" heigth="40"/>
 
 
-<div style="color:blue;">
+<div style="color:blue">
 <a href="https://github.com/AlissonColombo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonColombo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonColombo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
