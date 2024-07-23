@@ -17,7 +17,7 @@ Me chamo Alisson Colombo!!
 <div>
 <a href="https://github.com/AlissonColombo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonColombo&layout=compact&langs_count=7&theme=dracula&text_color=247BC5&title_color=DAE2E7"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonColombo&show_icons=true&theme=dracula&text_color=247BC5&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonColombo&show_icons=true&theme=dracula&text_color=247BC5&title_color=DAE2E7&include_all_commits=true&count_private=true"/>
 </div>
 
 
