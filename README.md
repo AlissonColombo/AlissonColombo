@@ -5,7 +5,9 @@ Me chamo Alisson Colombo!!
 
 🏠Sou natural de Caxias do Sul, RS.
 
-:computer:Aprendendo a programar!!
+:computer:Aprendendo a programar!! E cada vez mais apixonado pela area.
+
+<div class="tenor-gif-embed" data-postid="4533805" data-share-method="host" data-aspect-ratio="1.32773" data-width="100%"><a href="https://tenor.com/view/thumbs-up-computer-kid-okay-gif-4533805">Thumbs Up Computer GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ##          Ferramentas e Tecnologias:
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" heigth="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" heigth="40" /> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40"/> 
