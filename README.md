@@ -5,8 +5,8 @@ Me chamo Alisson Colombo!!
 
 🏠Sou natural de Caxias do Sul, RS.
 
-:computer:Aprendendo a programar, e as principais linguagens que já usei ou me aprofundei foram:
+:computer:Aprendendo a programar!!
 
-##            linguagens:
-            <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" heigth="40"/>
+##            Ferramentas e Tecnologias:
+<img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" heigth="40"/>
           
