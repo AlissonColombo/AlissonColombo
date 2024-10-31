@@ -1,7 +1,7 @@
 :bowtie: Hello, Devs!!
 Me chamo Alisson Colombo!!
 
-📖Estou cursando o terceiro semestre de Engenharia de Softwarena UCS - Campos Caxias.
+📖Estou cursando o 4° semestre de Engenharia de Softwarena UCS - Campos Caxias.
 
 🏠Sou natural de Caxias do Sul, RS.
 
